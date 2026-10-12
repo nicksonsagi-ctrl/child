@@ -1,0 +1,6 @@
+{
+  "name": "Luminara Early Childhood System",
+  "description": "Dedicated multi-page early childhood education, child development milestone tracking, pediatric wellness, and admissions portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
